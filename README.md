@@ -29,14 +29,14 @@ Utilities Needed:
 
 Create a file called 'ApprovedNodes' or copy the template file (ApprovedNodes.template) and on each line, insert all known/valid mac addresses that belong on your network. The script will check this file as refernence for known mac addresses.
 
- example: 
+ example:
+ 
  <code>
  XX:XX:XX:XX:XX:XX (Device Name)
 
  YY:YY:YY:YY:YY:YY (Device Name)
 
  ZZ:ZZ:ZZ:ZZ:ZZ:ZZ (Device Name)
-
  </code>
 
 
