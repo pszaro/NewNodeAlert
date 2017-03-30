@@ -31,9 +31,12 @@ Create a file called 'ApprovedNodes' or copy the template file (ApprovedNodes.te
 
  example: 
  <code>
- XX:XX:XX:XX:XX:XX (Device Name) 
+ XX:XX:XX:XX:XX:XX (Device Name)
+
  YY:YY:YY:YY:YY:YY (Device Name)
- ZZ:ZZ:ZZ:ZZ:ZZ:ZZ (Device Name) 
+
+ ZZ:ZZ:ZZ:ZZ:ZZ:ZZ (Device Name)
+
  </code>
 
 
