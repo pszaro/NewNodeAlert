@@ -43,7 +43,7 @@ then
 				echo "${p}" | tee -a "${ARCHIVEDIR}/newNodesDiscovered-""${datestamp}"""
 				echo "New Nodes Found On Network: ${p}"
 				# Notify via Growl, High Priorty
-				/usr/local/bin/growlnotify -t "New Node On The Network" -a "script.bat" -m "${p}" -p 1 -i Terminal -s
+				/usr/local/bin/growlnotify -t "New Node On The Network" -m "${p}" -p 1 -i Terminal -s
 			fi
  		done
 fi
