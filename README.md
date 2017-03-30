@@ -18,11 +18,11 @@ Things to do
 
 Utilities Needed: 
 
-*nmap - Nmap is a free and open source utility for network discovery and security auditing. https://nmap.org/ 
+- nmap - Nmap is a free and open source utility for network discovery and security auditing. https://nmap.org/ 
 
-*growlnotify - The Ultimate Notification System for OS X. http://growl.info/ 
+- growlnotify - The Ultimate Notification System for OS X. http://growl.info/ 
 
-*prowl (growl plugin) - Prowl is a push notification client for iOS. https://www.prowlapp.com/ 
+- prowl (growl plugin) - Prowl is a push notification client for iOS. https://www.prowlapp.com/ 
 
 
 - - - - - -
@@ -32,10 +32,9 @@ Create a file called 'ApprovedNodes' or copy the template file (ApprovedNodes.te
  example: 
 
  XX:XX:XX:XX:XX:XX (Device Name) 
-
- YY:YY:YY:YY:YY:YY (Device Name) 
+ 
+ YY:YY:YY:YY:YY:YY (Device Name)
 
  ZZ:ZZ:ZZ:ZZ:ZZ:ZZ (Device Name) 
-
 
 
