@@ -48,6 +48,7 @@ then
  		done
 fi
 
+# makes a copy
 grep "MAC Address:" "${WORKINGDIR}/currentScan" | tee "${WORKINGDIR}/previousScan" >/dev/null 2>&1
 
 exit
