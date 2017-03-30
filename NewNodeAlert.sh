@@ -4,10 +4,6 @@
 #
 # Utilities Needed: nmap, grownotify
 #
-# Create a file called 'ApprovedNodes' and on each line, insert all known/valid mac addresses that belong on your network
-# 
-# example: XX:XX:XX:XX:XX:XX (Name Device For Your Refernce)
-#
 
 WORKINGDIR="/Users/${USER}/github-repos/NewNodeAlert"
 ARCHIVEDIR="${WORKINGDIR}/Alerts"
