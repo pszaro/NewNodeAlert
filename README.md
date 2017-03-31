@@ -35,3 +35,6 @@ Create a file called 'ApprovedNodes' or copy the template file (ApprovedNodes.te
 
 ![alt tag](http://peterszaro.com/images/github-NewNodeAlert-prowl-ss-alert.png)
 
+Once tested manual, set it up to run at your intended inveral in cron.
+
+
