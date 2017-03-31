@@ -33,4 +33,5 @@ Create a file called 'ApprovedNodes' or copy the template file (ApprovedNodes.te
 
  XX:XX:XX:XX:XX:XX (Device Name)
 
-![alt tag](http://peterszaro.com/images/github-NewNodeAlert-prowl-ss.png Screenshot
+![alt tag](http://peterszaro.com/images/github-NewNodeAlert-prowl-ss.png)
+
