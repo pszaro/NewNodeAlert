@@ -12,6 +12,9 @@ List of Scripts
 
   - [NewNodeAlert.sh]:
    This script scans for new nodes on the network, and if detected, will send alert via growl
+
+  - [check_NewNodeAlert.sh]:
+   This script checks if scans for new nodes on the network is executing, and if determined that it's not, will send alert via growl
                    
 Things to do
 -----------------
