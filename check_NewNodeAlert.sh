@@ -1,6 +1,8 @@
 #!/bin/bash
 #
 # Description: This script checks if scans for new nodes on the network is executing, and if determined that it's not, will send alert via growl
+# 
+# Note: Usually related to security via sudo timeout
 #
 # Utilities Needed: grownotify
 #
